@@ -1,0 +1,14 @@
+{
+  "name": "webpack-pratice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/silverspoon318/webpack.git",
+  "author": "sungwonkim <sungwon3708@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^3.10.0"
+  }
+}
